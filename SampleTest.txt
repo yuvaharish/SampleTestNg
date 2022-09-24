@@ -1,3 +1,4 @@
-good morning
-system.out.println"king"
-syso('init")
+git init
+git add
+git commit
+
