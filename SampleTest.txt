@@ -1,1 +1,3 @@
 good morning
+system.out.println"king"
+syso('init")
